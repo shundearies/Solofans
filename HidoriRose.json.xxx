@@ -1,5 +1,4 @@
-{
-  "menu": [
+[
     {
       "id": "premium_gratis",
       "titulo": "Hidori Rose",
@@ -112,5 +111,4 @@
       "icono": "https://raw.githubusercontent.com/shundearies/skipperImg/refs/heads/main/hidori-rose.jpg",
       "acceso": "gratis"
     }
-  ]
-}
+]

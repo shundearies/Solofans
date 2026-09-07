@@ -1,24 +1,24 @@
 {
-  "name": "Bitme",
-  "image": "https://static.wikia.nocookie.net/logopedia/images/9/9c/BitMe_Red_Logo.svg/revision/latest/scale-to-width-down/711?cb=20250307002717",
-  "groups": [
-    {
-      "name": "Bitme",
-      "stations": [
-        {
-          "name": "Bitme",
-          "image": "https://static.wikia.nocookie.net/logopedia/images/9/9c/BitMe_Red_Logo.svg/revision/latest/scale-to-width-down/711?cb=20250307002717",
-          "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qej0n9zmvv/out/v1/93a227dbeef84293b95683c10fd88da2/cenc.mpd",
-          "headers": {
-            "Referer": "https://www.primevideo.com/",
-            "User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)"
-          },
-          "drm": {
-            "scheme": "clearkey",
-            "license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/BITME"
-          }
-        }
-      ]
-    }
-  ]
+"name": "Bitme",
+"image": "https://static.wikia.nocookie.net/logopedia/images/9/9c/BitMe_Red_Logo.svg/revision/latest/scale-to-width-down/711?cb=20250307002717",
+"groups": [
+{
+"name": "Bitme",
+"stations": [
+{
+"name": "Bitme",
+"image": "https://static.wikia.nocookie.net/logopedia/images/9/9c/BitMe_Red_Logo.svg/revision/latest/scale-to-width-down/711?cb=20250307002717",
+"url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qej0n9zmvv/out/v1/93a227dbeef84293b95683c10fd88da2/cenc.mpd",
+"headers": {
+"Referer": "https://www.primevideo.com/",
+"User-Agent": "AivAndroidPlayer/1.0 (AndroidDevice)"
+},
+"drm": {
+"scheme": "clearkey",
+"license_uri": "https://jdrjjuarzngptvngxpvp.supabase.co/functions/v1/BITME"
+}
+}
+]
+}
+]
 }
